@@ -1,0 +1,14 @@
+C:\Users\Admin\source\idk\NetInfoApp\NetInfoApp\bin\Debug\net10.0\NetInfoApp.exe
+C:\Users\Admin\source\idk\NetInfoApp\NetInfoApp\bin\Debug\net10.0\NetInfoApp.deps.json
+C:\Users\Admin\source\idk\NetInfoApp\NetInfoApp\bin\Debug\net10.0\NetInfoApp.runtimeconfig.json
+C:\Users\Admin\source\idk\NetInfoApp\NetInfoApp\bin\Debug\net10.0\NetInfoApp.dll
+C:\Users\Admin\source\idk\NetInfoApp\NetInfoApp\bin\Debug\net10.0\NetInfoApp.pdb
+C:\Users\Admin\source\idk\NetInfoApp\NetInfoApp\obj\Debug\net10.0\NetInfoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\idk\NetInfoApp\NetInfoApp\obj\Debug\net10.0\NetInfoApp.AssemblyInfoInputs.cache
+C:\Users\Admin\source\idk\NetInfoApp\NetInfoApp\obj\Debug\net10.0\NetInfoApp.AssemblyInfo.cs
+C:\Users\Admin\source\idk\NetInfoApp\NetInfoApp\obj\Debug\net10.0\NetInfoApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\idk\NetInfoApp\NetInfoApp\obj\Debug\net10.0\NetInfoApp.dll
+C:\Users\Admin\source\idk\NetInfoApp\NetInfoApp\obj\Debug\net10.0\refint\NetInfoApp.dll
+C:\Users\Admin\source\idk\NetInfoApp\NetInfoApp\obj\Debug\net10.0\NetInfoApp.pdb
+C:\Users\Admin\source\idk\NetInfoApp\NetInfoApp\obj\Debug\net10.0\NetInfoApp.genruntimeconfig.cache
+C:\Users\Admin\source\idk\NetInfoApp\NetInfoApp\obj\Debug\net10.0\ref\NetInfoApp.dll
